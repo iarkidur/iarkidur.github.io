@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iarkidur.github.io/sitemap
+Sitemap: https://iarkidur.github.io/app/sitemap
+Sitemap: https://iarkidur.github.io/assets/sitemap
+Sitemap: https://iarkidur.github.io/css/sitemap
+Sitemap: https://iarkidur.github.io/includes/sitemap
+Sitemap: https://iarkidur.github.io/item/sitemap
+Sitemap: https://iarkidur.github.io/src/sitemap
